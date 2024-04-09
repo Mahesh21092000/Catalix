@@ -17,7 +17,7 @@ function Main() {
       series: [
         {
           name: "EFFICIENCY",
-          data: [32, 40, 50, 20, 43, 200, 100, 108],
+          data: [32, 50, 70, 30, 90, 110, 150, 200],
         },
       ],
       percentageChange: -0.13,
@@ -37,7 +37,7 @@ function Main() {
       series: [
         {
           name: "TIME TO MARKET",
-          data: [32, 40, 50, 20, 43, 200, 100, 108],
+          data: [32, 40, 50, 30, 75, 80, 90, 108],
         },
       ],
       percentageChange: -23.03,
@@ -57,7 +57,7 @@ function Main() {
       series: [
         {
           name: "TECH DEBT",
-          data: [32, 40, 50, 20, 43, 200, 100, 108],
+          data: [32, 40, 50, 55, 50,65, 69, 75],
         },
       ],
       percentageChange: 0.13,
@@ -77,7 +77,7 @@ function Main() {
       series: [
         {
           name: "PREDICTABILITY",
-          data: [32, 40, 50, 20, 43, 200, 100, 108],
+          data: [30, 25, 20, 23, 22, 15, 13, 10],
         },
       ],
       percentageChange: -13.88,

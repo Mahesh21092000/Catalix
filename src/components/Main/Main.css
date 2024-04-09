@@ -1,0 +1,9 @@
+.container-graph {
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-evenly;
+    margin-right: 70px;
+    margin-top: 150px;
+  }
+  
+  

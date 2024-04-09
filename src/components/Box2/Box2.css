@@ -1,0 +1,40 @@
+.box2{
+    margin-left: 200px;
+    margin-top: 190px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.ontime{
+    display: flex;
+    gap: 75px;
+    box-shadow: 0px 10px 20px 0px #e0c6f5;
+    width: 25%;
+    padding: 30px;
+    border-radius: 10px;
+   
+
+}
+.left p{
+    margin: 0px;
+    padding-bottom: 5px;
+}
+.greendot{
+  width: 10px; 
+  height: 10px; 
+  background-color: #00ff00; 
+  border-radius: 50%; 
+}
+.right{
+    margin-top: 10px;
+}
+.redlight{
+    width: 10px; 
+  height: 10px; 
+  background-color: #ff0008; 
+  border-radius: 50%; 
+}
+.ontime:hover{
+    box-shadow: none;
+    cursor: pointer;
+    border: 1px solid rgb(128, 128, 128);
+}

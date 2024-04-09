@@ -1,0 +1,125 @@
+.navbar{
+    margin-left: 200px;
+    
+    
+}
+.navbar-items{
+    margin-top: 20px;
+    display: flex;
+}
+.search-icon{
+    width: 40px;
+    height: 40px;
+    align-items: center;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: white;
+    border: 1px solid black;
+    border-right: 0px;
+}
+.nav-input{
+    display: flex;
+    text-align: center;
+    margin-left: 150px;
+   
+}
+.nav-input span{
+    color: rgb(6, 145, 145);
+}
+.input-tag{
+    width: 10cm;
+    height: 40px;
+    border: 1px solid black;
+    border-left: 0px;
+    border-right: 0px;
+
+}
+.cancel-icon{
+    width: 40px;
+    height: 40px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-color: white;
+    border: 1px solid black;
+    border-left: 0px;
+}
+.navbar-items img{
+    width: 40px;
+    height: 40px;
+    margin-left: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+.nav-left span{
+   color: black;
+   display: flex;
+
+}
+.nav-left{
+    position: absolute;
+    right: 120px;
+    display: flex;
+}
+.nav-left button{
+    margin-left: 10px;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.down-button{
+    display: flex;
+    position: absolute;
+    margin-top: 200px;
+    gap: 100px;
+    margin-left: 100px;
+  
+}
+.span-btn{
+    display: flex;
+    padding: 10px;
+    text-align: center;
+    color: #08dc95e3;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 20px;
+    background-color: white;
+    border: 0.5px solid black;
+    margin-left: 30px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.span-btn:hover{
+  color: white;
+  background-color: #08dc95e3 ;
+}
+.span-btn1{
+    display: flex;
+    padding: 15px;
+    text-align: center;
+    color: #08dc95e3;
+    font-size: 15px;
+    font-weight: 600;
+    background-color:#005f73 ;
+    color: white;
+    border-radius: 20px;
+    border: 0.5px solid black;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.btn-3{
+    background-color:white;
+    border-radius: 20px;
+    font-size: 15px;
+    font-weight: 600;
+    color: grey;
+    border: 0.5px solid black;
+    margin-left: 30px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.btn-3:hover{
+    color: white;
+    background-color: grey;
+    transition: 0.5ms;
+    margin-left: 30px;
+   
+   
+}

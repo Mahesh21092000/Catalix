@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Catalix/static/css/main.c990452a.css",
+    "main.js": "/Catalix/static/js/main.fb19486f.js",
+    "static/js/453.77331c9d.chunk.js": "/Catalix/static/js/453.77331c9d.chunk.js",
+    "static/media/pic.jpg": "/Catalix/static/media/pic.d4ab6a302ced3129bdb7.jpg",
+    "static/media/cancel.png": "/Catalix/static/media/cancel.d47f0e1ad5abb6bff151.png",
+    "index.html": "/Catalix/index.html",
+    "main.c990452a.css.map": "/Catalix/static/css/main.c990452a.css.map",
+    "main.fb19486f.js.map": "/Catalix/static/js/main.fb19486f.js.map",
+    "453.77331c9d.chunk.js.map": "/Catalix/static/js/453.77331c9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c990452a.css",
+    "static/js/main.fb19486f.js"
+  ]
+}
